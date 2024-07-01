@@ -8,8 +8,8 @@ import SearchBox from '@/components/SearchBox';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'IMDb clone',
-  description: 'This is a movie database clone',
+  title: 'FlixNet',
+  description: 'This is a movie database Website',
 };
 
 export default function RootLayout({ children }) {
